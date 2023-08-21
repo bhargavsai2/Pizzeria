@@ -1,0 +1,14 @@
+---
+:id: 171837054
+:submitters:
+- :name: Sai Praneeth Dulam
+  :email: sdulam@clemson.edu
+- :name: Bhargav Sai Gajula
+  :email: bgajula@clemson.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-03-31 02:41:26.476097000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-03-30 19:41:26.476097000 Z
+:status: processed
+:score: 74.5
